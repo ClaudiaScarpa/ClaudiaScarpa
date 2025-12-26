@@ -8,8 +8,8 @@ I am a Graduate Mathematics Student at the **University of Bologna**, specializi
 
 ### 📊 Mathematical & Technical Expertise
 * **Advanced Math:** Stochastic Processes, Mean Field Games, Combinatorial Analysis, Game Theory.
-* **Programming:** Python (NumPy, Pandas, SciPy), MATLAB, R, Java.
-* **Tools:** LaTeX for scientific documentation, Git for version control, Advanced Excel.
+* **Programming:** Python (NumPy, Pandas, SciPy), MATLAB, Java.
+* **Tools:** LaTeX, Git, Excel.
 
 ### 🎓 Key Educational Milestones
 * **MSc in Mathematics** - University of Bologna (Ongoing).
