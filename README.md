@@ -11,7 +11,7 @@ I am a Graduate Mathematics Student at the **University of Bologna**, specializi
 * **Programming:** Python (NumPy, Pandas, SciPy), MATLAB, Java.
 * **Tools:** LaTeX, Git, Excel.
 
-### 🎓 Key Educational Milestones
+### 🎓 Education
 * **MSc in Mathematics** - University of Bologna (Ongoing).
 * **Summer School for Economics and Social Sciences** - *Mathematics Research Center "Ennio De Giorgi"*. Intensive coursework on **Mean Field Games** and **Combinatorial Stochastic Processes** with applications in Finance.
 * **BSc in Mathematics** - University of Trento.
