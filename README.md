@@ -1,24 +1,41 @@
-# Hi, I'm Claudia Scarpa 👋
+Hi, I'm Claudia Scarpa 👋  
+I'm a Graduate Mathematics Student with a strong focus on **Operations Research, Optimization, and Applied Mathematical Modeling**.
 
-I am a Graduate Mathematics Student at the **University of Bologna**, specializing in **Advanced Mathematics for Applications**. My core interest lies at the intersection of **Stochastic Processes**, **Optimization**, and **Quantitative Modeling**.
+I am currently pursuing an MSc in *Advanced Mathematics for Applications* at the University of Bologna, with a particular interest in **combinatorial optimization, workforce scheduling, and decision-support models for real-world systems**.
 
-### 🔭 Current & Upcoming Focus
-* **Operations Research Intern @ Optit**: Applying mathematical programming and optimization algorithms to solve complex industrial problems.
-* **Quantitative Research Aspirations**: Interested in leveraging stochastic calculus, game theory, and statistical modeling to solve financial and economic challenges.
+---
+
+### 🔭 Current Focus
+- **Operations Research Intern @ Optit S.r.l.**  
+  Working on a large-scale **workforce scheduling problem**, developing and implementing **constraint programming–based combinatorial optimization models** in Python (OR-Tools) for industrial applications.
+
+- **Applied Optimization & Quantitative Modeling**  
+  Interested in bridging rigorous mathematical modeling with practical optimization algorithms for logistics, operations, and economic systems.
+
+---
 
 ### 📊 Mathematical & Technical Expertise
-* **Advanced Math:** Stochastic Processes, Mean Field Games, Combinatorial Analysis, Game Theory.
-* **Programming:** Python (NumPy, Pandas, SciPy), MATLAB, Java.
-* **Tools:** LaTeX, Git, Excel.
+- **Optimization & OR:** Constraint Programming, Combinatorial Optimization, Scheduling, Mathematical Programming  
+- **Applied Mathematics:** Stochastic Processes, Mean Field Games, Game Theory  
+- **Programming:** Python (NumPy, Pandas, SciPy, OR-Tools), MATLAB, Java  
+- **Tools:** LaTeX, Git, Excel  
+
+---
 
 ### 🎓 Education
-* **MSc in Mathematics** - University of Bologna (Ongoing).
-* **Summer School for Economics and Social Sciences** - *Mathematics Research Center "Ennio De Giorgi"*. Intensive coursework on **Mean Field Games** and **Combinatorial Stochastic Processes** with applications in Finance.
-* **BSc in Mathematics** - University of Trento.
+- **MSc in Mathematics**, University of Bologna (ongoing)  
+- **Summer School for Economics and Social Sciences**, Mathematics Research Center *"Ennio De Giorgi"*  
+  Intensive coursework on **Mean Field Games** and **Combinatorial Stochastic Processes** with applications in economics and finance.  
+- **BSc in Mathematics**, University of Trento  
+
+---
 
 ### ♟️ Analytical Mindset
-Beyond mathematics, I am a **Competitive Chess Player** and two-time Italian Youth Champion. I apply the same strategic depth, pattern recognition, and pressure-handling required at the chessboard to my quantitative research projects.
+I am a **competitive chess player** and two-time Italian Youth Champion.  
+This background strengthens my ability to reason strategically, explore large decision spaces, and make robust decisions under uncertainty—skills directly transferable to optimization and OR problems.
 
-### 📫 Let's Connect
-* [LinkedIn](TUO_LINK_LINKEDIN)
-* Email: claudiascarpa02@gmail.com
+---
+
+📫 **Let’s connect**  
+Email: claudiascarpa02@gmail.com  
+LinkedIn: *(add your link here)*
