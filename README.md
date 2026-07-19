@@ -38,4 +38,4 @@ This background strengthens my ability to reason strategically, explore large de
 
 📫 **Let’s connect**  
 Email: claudiascarpa02@gmail.com  
-LinkedIn: *(add your link here)*
+LinkedIn: https://www.linkedin.com/in/claudia-scarpa-439320258/
